@@ -9,7 +9,7 @@ X: scale down
 C: rotate counterclockwise
 V: rotate clockwise
 
-How to download it:
+How to use it:
 1) download the file
 2) open easy game maker from itch.io
 3) import the file
